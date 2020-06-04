@@ -1,0 +1,2 @@
+# mechdifile
+file pertama kali
